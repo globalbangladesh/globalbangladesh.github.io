@@ -1,0 +1,22 @@
+Wordpress Basic Design:
+======================
+1.Header==logo and menu
+2.Slider==myproject_link
+3.Post Banner=design_details
+4.Contact_form==contactme
+5.Google_map==my_location
+6.Footer==developer_name with year
+
+
+========================================
+========================================
+
+Website width: 1200px
+content width:960px
+header and footer width:900px
+
+========================================
+========================================
+
+website color: black,white,red and green;
+obiasily color code rgba();
